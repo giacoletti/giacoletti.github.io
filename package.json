@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/giacoletti/giacoletti.github.io/issues"
   },
-  "homepage": "https://github.com/giacoletti/giacoletti.github.io#readme"
+  "homepage": "https://github.com/giacoletti/giacoletti.github.io#readme",
+  "dependencies": {
+    "url-parse": "^1.5.3"
+  }
 }
