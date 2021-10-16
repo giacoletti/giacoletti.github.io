@@ -5,7 +5,12 @@ h1 {
 body {
   padding-top: 70px;
   background-color: darkgray;
-  
+
+}
+
+h2 {
+  background-color: black;
+/* this is a test */
 }
 
 /* .dropdown-menu {
